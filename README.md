@@ -1,2 +1,2 @@
 # some_tips
- some internet tips
+there is some internet tips
