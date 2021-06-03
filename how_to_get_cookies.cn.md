@@ -18,6 +18,6 @@
 
 <br/>
 
-第五步: 找到 "**请求标头**" 的 "**Cookie**" 条目, 然后完整复制 ':' 后面的内容即可
+第五步: 找到 "**请求标头**" 的 "**Cookie**" 条目, 然后完整复制 "Cookie: " 后面的内容即可
 
 <img src="https://pic.rmb.bdstatic.com/bjh/e135317bd7262e44affe81b7f0dbd68a.png">
