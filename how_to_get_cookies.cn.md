@@ -14,7 +14,7 @@
 
 第四步: 刷新网页, 并在下方捕捉到请求中任意选择一条
 
-<img src="https://pic.rmb.bdstatic.com/bjh/8f910e5015a11bdb44df7bd300323533.png">  
+<img src="https://pic.rmb.bdstatic.com/bjh/033d8cb0d4d7013eddd0398cbff81b9d.png">  
 
 <br/>
 
