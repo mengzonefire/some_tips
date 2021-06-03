@@ -1,0 +1,1 @@
+# this doc teach how to get website cookies in browser
